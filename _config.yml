@@ -1,7 +1,7 @@
 name: CreativeDestruction
 favicon: null
-layout_spectrum: 0.5175841886084527
-typography_spectrum: 0.02788231591694057
+layout_spectrum: 0.24856
+typography_spectrum: 0.89788
 title: CreativeDestruction
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7792806173674762
+    - '#022940'
+    - '#5a98a0'
+    - '#935e33'
+    - '#44463a'
+    - '#d68a51'
+  brandStrength: 0.75
   lightness: 0.1800867971032858
-  saturation: 0.13303684000857174
-  rhythmicContrast: 0.5105461711063981
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
