@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[CreativeDestruction]]></title>
         <description><![CDATA[CreativeDestruction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creativedestruction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:22:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 23:31:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creativedestruction/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative destruction is the industrial and societal evolution that has driven human progress forward since a distant ancestor smashed two rocks together and created a spark. In the age of exponentially advancing technology and major social changes, creative destruction is set to be the new normal. We are at the very beginning of the next Cambrian explosion; Fortune 500 companies and the closed minded individuals wont survive it. But if you're reading this, you just might make it ;).]]></title>
+            <description><![CDATA[<h1>Creative destruction is the industrial and societal evolution that has driven human progress forward since a distant ancestor smashed two rocks together and created a spark. In the age of exponentially advancing technology and major social changes, creative destruction is set to be the new normal. We are at the very beginning of the next Cambrian explosion; Fortune 500 companies and the closed minded individuals wont survive it. But if you're reading this, you just might make it ;).</h1>]]></description>
+            <link>https://thegrid.ai/creativedestruction/e1ba5ccd-e493-40f2-a0a6-5ee036443d76/index.html</link>
+            <guid isPermaLink="false">e1ba5ccd-e493-40f2-a0a6-5ee036443d76</guid>
+            <pubDate>Wed, 13 Apr 2016 23:30:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined2782803e-8287-421f-8ff7-57a4676dc4ee/index.html</link>
+            <description><![CDATA[<p>"The urge to destroy is also a creative urge"</p>]]></description>
+            <link>https://thegrid.ai/creativedestruction/2782803e-8287-421f-8ff7-57a4676dc4ee/index.html</link>
             <guid isPermaLink="false">2782803e-8287-421f-8ff7-57a4676dc4ee</guid>
             <pubDate>Wed, 13 Apr 2016 22:22:07 GMT</pubDate>
         </item>
